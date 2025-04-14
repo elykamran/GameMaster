@@ -2,8 +2,7 @@
   <img src="https://github.com/Delaford/game/raw/master/src/assets/github/logo.png"/>
 </p>
 
-<div align="center">
-<a href="https://discord.gg/nkZnHvD"><img src="https://camo.githubusercontent.com/b12a95e20b7ca35f918c0ab5103fe56b6f44c067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d3732383964612e737667" alt="Discord" /></a>
+
   
   **July 2022 update**: beta demo available at https://beta.delaford.com/
   
@@ -88,28 +87,3 @@ When an item is checkmarked, it means the basic foundation is in place but not n
 
 Once all of these items are checked, Delaford will be stable without breaking changes. But for the time being, please jump in and help add some of these features -- if you'd like!
 
-## Debugging
-
-Learning how to debug in this game is critical in order to interact with the Node.js server and to the client. Your primary source should be the [ndb](https://github.com/GoogleChromeLabs/ndb) tool from Google. It is an improved debugging experience which **drastically** improved client-side debugging.
-
-Read more at [DEBUGGING.md](debugging.md).
-
-## Notice
-
-Delaford contains work from multiple sources not organically made by contributions from Delaford directly.
-
-- [Tileset, monsters, items, players](http://pousse.rapiere.free.fr/tome/tome-tiles.htm) by David E. Gervais. &middot; [CC license](https://creativecommons.org/licenses/by/3.0/)
-- [Main screen music](https://opengameart.org/content/enchanted-festival) by [Matthew Pablo](http://www.matthewpablo.com). &middot; [CC license](https://creativecommons.org/licenses/by/3.0/)
-- Game font '[PixelMix](https://www.dafont.com/pixelmix.font)' by [Andrew Tyler](http://andrewtyler.net/fonts/)
-- Chat font '[IBM VGA 8](https://int10h.org/oldschool-pc-fonts/fontlist/)' by [IBM](https://www.ibm.com).
-- [Heroicons](https://github.com/sschoger/heroicons-ui) by [Steve Schoger](http://www.steveschoger.com/)
-
-## Website Status
-
-**Website is not currently up.** The number of users did not justify the monthly charge.
-
-## Possible Scam Notice
-
-Delaford contributors nor anyone associated with Delaford will never contact you in regards testing or instructing you to download anything in regards to the development of the game for the reward of payment or digital currency such as cryptocurrency.
-
-We have had verifiable reports of users pretending to be owners of Delaford promising money if they download a folder with the repository's contents inside. Please be aware.
